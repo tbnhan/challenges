@@ -2,6 +2,14 @@
 
 - Time: 8 hours (please no more!)
 
+## Coding Challenges
+
+1. [Gray Code](/code-challenges/gray-code.md)
+
+2. [Sum of Distances in Tree](/code-challenges/sum-of-distances-in-tree.md)
+
+3. [Maximum Length of Repeated Subarray](/code-challenges/maximum-length-of-repeated-subarray.md)
+
 ## Tasks
 
 1. Write a simple HTTP server and handler that serves a HTML form
