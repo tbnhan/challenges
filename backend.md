@@ -1,8 +1,10 @@
 # Backend Test
 
-- Time: 8 hours (please no more!)
+- Total time: 10 hours (please no more!)
 
-## Coding Challenges
+## Coding Interview
+
+> Time: 2 hours
 
 1. [Gray Code](/code-challenges/gray-code.md)
 
@@ -10,7 +12,9 @@
 
 3. [Maximum Length of Repeated Subarray](/code-challenges/maximum-length-of-repeated-subarray.md)
 
-## Tasks
+## Homework
+
+> Time: 8 hours
 
 1. Write a simple HTTP server and handler that serves a HTML form
    with 2 fields:
