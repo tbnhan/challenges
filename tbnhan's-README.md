@@ -1,5 +1,5 @@
 # About the 'Coding Interview'
-[ ] Gray code
+[x] Gray code
 [ ] Sum of Distances in Tree
 [ ] Maximum Length of Repeated Subarray
 
