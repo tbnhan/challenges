@@ -1,6 +1,6 @@
 # About the 'Coding Interview'
 [x] Gray code
-[ ] Sum of Distances in Tree
+[x] Sum of Distances in Tree
 [x] Maximum Length of Repeated Subarray
 
 # About the 'Homework'
