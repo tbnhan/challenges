@@ -1,7 +1,7 @@
 # About the 'Coding Interview'
 [x] Gray code
 [ ] Sum of Distances in Tree
-[ ] Maximum Length of Repeated Subarray
+[x] Maximum Length of Repeated Subarray
 
 # About the 'Homework'
 [ ] 1. Write a simple HTTP server and handler
